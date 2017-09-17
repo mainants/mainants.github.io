@@ -41,6 +41,7 @@ header input {
   border: 0px;
   box-shadow: none;
   outline: none;
+  text-decoration: none;
 
   -webkit-appearance: none;
   -moz-appearance: none;
